@@ -2,9 +2,9 @@ version = 0.1
 [default]
 [default.deploy]
 [default.deploy.parameters]
-stack_name = "mycloudformation"
+stack_name = "mypayloadfun"
 s3_bucket = "aws-sam-cli-managed-default-samclisourcebucket-d4g2x07af9dc"
-s3_prefix = "mycloudformation"
+s3_prefix = "mypayloadfun"
 region = "us-west-2"
 confirm_changeset = true
 capabilities = "CAPABILITY_IAM"
