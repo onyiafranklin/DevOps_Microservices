@@ -6,7 +6,7 @@ This repository is associated with Cloud DevOps ND - Course 04 - Microservices a
 
 ---
 
-### A. Dependencies
+### A. Dependenciesdd
 #### A.1. Python
 [Download and install the python](https://www.python.org/downloads/). 
 
